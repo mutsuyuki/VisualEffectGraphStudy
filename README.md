@@ -12,3 +12,6 @@ VFXGraphを思った通りに制御する練習
 
 サイン波
 ![Sine](https://user-images.githubusercontent.com/16832362/79093681-fb695100-7d8f-11ea-8244-6162c8454db5.gif)
+
+極座標
+![Earth2](https://user-images.githubusercontent.com/16832362/79126535-16ad7e00-7ddb-11ea-8eff-59090ca4d964.gif)
