@@ -16,3 +16,6 @@ VFXGraphを思った通りに制御する練習
 極座標
 
 ![Earth2](https://user-images.githubusercontent.com/16832362/79126535-16ad7e00-7ddb-11ea-8eff-59090ca4d964.gif)
+
+GPUEvent
+![GPUEvent](https://user-images.githubusercontent.com/16832362/79221353-9a757200-7e90-11ea-898e-1c9998b266e1.gif)
